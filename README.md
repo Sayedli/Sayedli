@@ -54,7 +54,7 @@ I thrive in **Agile teams**, love clean and efficient code, and continuously exp
 
 ## 📫 Get in Touch  
 📧 Email: [hudszonzaidi@gmail.com]  
-🔗 LinkedIn: [(https://www.linkedin.com/in/sayed-ali-b31057202/)]  
+🔗 LinkedIn: [(https://www.linkedin.com/in/sayedli/)]  
 🐙 GitHub: [(https://github.com/Sayedli)]  
 
 ✨ Thanks for visiting my profile — feel free to explore my repositories and connect with me!  
