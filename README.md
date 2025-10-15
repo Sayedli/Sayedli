@@ -19,9 +19,6 @@ I thrive in **Agile teams**, love clean and efficient code, and continuously exp
 ### 💻 Languages & Frameworks  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/-EC2-FF9900?logo=amazonec2&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -35,6 +32,9 @@ I thrive in **Agile teams**, love clean and efficient code, and continuously exp
 ### ☁️ Cloud & DevOps  
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![Databricks](https://img.shields.io/badge/-Databricks-E36209?logo=databricks&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/-EC2-FF9900?logo=amazonec2&logoColor=white)
 
 ### 🗄️ Databases  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
